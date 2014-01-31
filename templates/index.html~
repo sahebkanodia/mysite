@@ -19,7 +19,7 @@
                     Hey, my name is Saheb 
                 </h1>
                 <p>
-                    I am an undergraduate from <a href='http://http://www.wbutech.net/' target='_'>WBUT</a>, where I study Computer Science. 
+                    I am an undergraduate from <a href='http://www.wbutech.net/' target='_'>WBUT</a>, where I study Computer Science. 
                     I'm particularly interested in upcoming technologies and startups surrounding them. 
                 </p>
                 <p>
@@ -31,7 +31,7 @@
                     <a href='http://in.linkedin.com/in/sahebkanodia/' target='_'>LinkedIn</a> accounts.
                 
                 <p>
-                    This site is written in Python / Django and hosted on Heroku. 
+                    This site is written in Python and hosted on Heroku. 
                     The full source is hosted <a href='https://github.com/sahebkanodia/mysite' target='_'>here</a>.
                 </p>
             </div>
